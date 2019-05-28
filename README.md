@@ -1,6 +1,5 @@
 # Java_libraryManagement
 This is a management project,library management project.Mysql was used for database management.
-
 It is a simple demonstration of add update deletetion and management sytem.
 
 # what program can do?
